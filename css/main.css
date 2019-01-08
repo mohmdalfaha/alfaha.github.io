@@ -1302,7 +1302,7 @@ header .logo a {
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
-	height: auto;
+	height: 100%;
 	min-height: 720px;
 	display: table;
 	position: relative;
