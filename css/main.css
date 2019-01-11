@@ -1506,14 +1506,14 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
-	border-radius: 50%;
-	margin: .9rem 0 0 0;
+    height: 13rem;
+    width: 13rem;
+    border-radius: 100%;
+    margin: .1rem 4rem 0 0;
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
+	text-align: center;
 	padding-left: 13rem;
 }
 
@@ -1615,6 +1615,8 @@ header .logo a {
 		text-align: center;
 	}
 }
+
+
 
 /**
  * ===================================================================
