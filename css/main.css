@@ -1514,7 +1514,7 @@ header .logo a {
 }
 .intro-info .lead {
 	text-align: center;
-	padding-left: 13rem;
+	padding-left: inherit;
 }
 
 .about-content {
